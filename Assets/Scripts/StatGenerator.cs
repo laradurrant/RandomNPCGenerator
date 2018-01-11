@@ -789,7 +789,7 @@ public class StatGenerator : MonoBehaviour {
             else if (x >= 71 && x <= 91)
             {
                 DataStorage.MismatchingType = "All";
-				return;
+
             }
             else if (x >= 92 && x <= 100)
             {
@@ -851,6 +851,11 @@ public class StatGenerator : MonoBehaviour {
         else if (x >= 71 && x <= 91)
         {
             DataStorage.IsPolysexual = true;
+			DataStorage.AttractedTo = "All";
+			DataStorage.AttractedTo2 = "--";
+			DataStorage.OrientationType = "Polysexual";
+			return;
+			
         }
         else if (x >= 92 && x <= 97)
         {
@@ -895,6 +900,7 @@ public class StatGenerator : MonoBehaviour {
             }
             while (DataStorage.AttractedTo == DataStorage.AttractedTo2);
 
+			
             DataStorage.OrientationType = "Polysexual, " + DataStorage.AttractedTo2;
 
 
@@ -920,7 +926,7 @@ public class StatGenerator : MonoBehaviour {
         }
         else if (x >= 91 && x <= 100)
         {            
-           //DataStorage.OrientationType = "Polysexual, " + DataStorage.AttractedTo2;
+           DataStorage.OrientationType = "Polysexual, " + DataStorage.AttractedTo2;
             DataStorage.IsPolysexual = true;
             SetSexualOrientation();
         }
