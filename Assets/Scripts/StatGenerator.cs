@@ -1914,11 +1914,11 @@ public class StatGenerator : MonoBehaviour {
             {
                 return "Pangender";
             }
-            else if (x >= 48 && x <= 53)
+            else if (x >= 48 && x <= 52)
             {
                 return "Neutral/Agender";
             }
-            else if (x >= 54 && x <= 55)
+            else if (x >= 53 && x <= 55)
             {
                 PolyGender();
                 return "Polygender: \n" + DataStorage.Polygender + ", " + DataStorage.Polygender2;
