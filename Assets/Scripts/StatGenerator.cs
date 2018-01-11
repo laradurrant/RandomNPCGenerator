@@ -1910,15 +1910,11 @@ public class StatGenerator : MonoBehaviour {
             { 
                 return "Masc/Neutral";
             }
-            else if (x >= 46 && x <= 47)
-            {
-                return "Pangender";
-            }
-            else if (x >= 48 && x <= 52)
+            else if (x >= 46 && x <= 49)
             {
                 return "Neutral/Agender";
             }
-            else if (x >= 53 && x <= 55)
+            else if (x >= 50 && x <= 55)
             {
                 PolyGender();
                 return "Polygender: \n" + DataStorage.Polygender + ", " + DataStorage.Polygender2;
@@ -1931,7 +1927,7 @@ public class StatGenerator : MonoBehaviour {
             {
                 return "Fem/Masc";
             }
-            else if (x >= 71 && x < 101)
+            else if (x >= 71 && x <= 100)
             {
                 return "Feminine";
             }
