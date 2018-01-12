@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GenderSexuality.unity
-    guid: 6741405d359cc2f4082c93f84577a4b9
+    path: Assets/Scenes/Title.unity
+    guid: 4981456053bf1ac40947abb74ab80bcf
   - enabled: 1
     path: Assets/Scenes/FaceHairBody.unity
     guid: dee6b4141811b684ba4d4484861244f1
   - enabled: 1
+    path: Assets/Scenes/GenderSexuality.unity
+    guid: 6741405d359cc2f4082c93f84577a4b9
+  - enabled: 1
     path: Assets/Scenes/FaceDetails.unity
     guid: 9873627b05c73e9489e04fd3d60d806f
-  - enabled: 0
-    path: Assets/Scenes/Main.unity
-    guid: 21d3a725efe76c647ab794dec2f34c77
