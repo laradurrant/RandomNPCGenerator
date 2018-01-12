@@ -2,12 +2,11 @@
 
 *******************************
 README for Random NPC Generator
-*******************************
-
 
 -------------------------------
+
 Purpose and Description
--------------------------------
+
 
 The purpose of the Random NPC Generator is to provide a starting point for new character generation. The main uses would be for developing a new character especially during the brainstorming process, for designing a character such as during a Dungeons and Dragons campagin, or for the generation of new NPCs in the creation of a game.  In particular, we wanted to make a generator that is diverse and accounts for a wider range of human characteristics above and beyond the options that are typically offered in most games. Specifically, that includes options for different genders, allows for intersex characters, and a variety of different hair and skin options.
 
@@ -18,7 +17,7 @@ Please note that the Esc and Exit keys will not work in the browser version. Thi
 
 -------------------------------
 Current Status
--------------------------------
+
 
 The project is currently in its early development stages, and additional features will be implemented as time and resources permit.
 
@@ -27,7 +26,7 @@ The project is currently in its early development stages, and additional feature
 
 -------------------------------
 Future Features
--------------------------------
+
 
 In the future, we would like to implement a number of features including:
 
