@@ -38,7 +38,7 @@ In the future, we would like to implement a number of features including:
   Specifically, we would like the data to be exported in an easy to use text file.  
   
 * Specific stat re-rolling:
-  Allows the rerolling of any specific stat. Will allow for further customization.
+  Allows the re-rolling of any specific stat. Will allow for further customization.
 
 * Background music and sound effects:
   For a more fun/enjoyable experience, we would like to include sound effects (with the options to turn them on/off).
