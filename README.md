@@ -1,9 +1,9 @@
 # RandomNPCGenerator
 
-*******************************
+
 README for Random NPC Generator
 
--------------------------------
+
 
 Purpose and Description
 
@@ -15,7 +15,6 @@ The NPC Generator is based in Unity (version 2017.3.0f3) and it can be run eithe
 Please note that the Esc and Exit keys will not work in the browser version. This has to do with the nature of browser web applications. To leave, simply navigate to a new page. 
 
 
--------------------------------
 Current Status
 
 
@@ -24,7 +23,7 @@ The project is currently in its early development stages, and additional feature
 * Currently as of 01/12/18, the game can generate a random NPC with a number of face, gender, and sexuality options. Saving of the data is not possible excpet via screenshot. 
 
 
--------------------------------
+
 Future Features
 
 
