@@ -5,6 +5,7 @@ README for Random NPC Generator
 
 
 
+
 Purpose and Description
 
 
@@ -13,7 +14,7 @@ The purpose of the Random NPC Generator is to provide a starting point for new c
 The NPC Generator is based in Unity (version 2017.3.0f3) and it can be run either through the browser through the use of Java-based OpenGL as well as through a Desktop application (Available on both MacOS and Windows). Upon starting up the program,  you will be able to generate a character with randomized statistics. You can then click through each tab to see the complete list of character details. To generate a new character, simply hit the New button. To exit the program, Back out to the Title screen and then hit Exit. The Escape key will also work. 
 
 Please note that the Esc and Exit keys will not work in the browser version. This has to do with the nature of browser web applications. To leave, simply navigate to a new page. 
-
+-------------------------------
 
 Current Status
 
@@ -21,7 +22,7 @@ Current Status
 The project is currently in its early development stages, and additional features will be implemented as time and resources permit.
 
 * Currently as of 01/12/18, the game can generate a random NPC with a number of face, gender, and sexuality options. Saving of the data is not possible excpet via screenshot. 
-
+-------------------------------
 
 
 Future Features
@@ -43,3 +44,4 @@ In the future, we would like to implement a number of features including:
   
 * Voice overs:
   To allow for easier accessibility, we would like to include voice overs for the text and categories.
+-------------------------------
