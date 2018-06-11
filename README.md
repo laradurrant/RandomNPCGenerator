@@ -7,6 +7,7 @@ README for Random NPC Generator
 
 
 
+
 Purpose and Description
 -------------------------------
 
@@ -24,6 +25,7 @@ Current Status
 The project is currently in its early development stages, and additional features will be implemented as time and resources permit.
 
 * Currently as of 01/12/18, the game can generate a random NPC with a number of face, gender, and sexuality options. Saving of the data is not possible excpet via screenshot. 
+
 
 
 
@@ -49,3 +51,9 @@ In the future, we would like to implement a number of features including:
 * Voice overs:
   To allow for easier accessibility, we would like to include voice overs for the text and categories.
 -------------------------------
+
+
+Website
+-------------------------------
+Follow this project on itch.io:
+https://phdgamedev.itch.io/random-npc-generator
